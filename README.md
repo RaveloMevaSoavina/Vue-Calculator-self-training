@@ -1,4 +1,5 @@
-# calculator
+# calculator for self-training
+This repository contains a calculator webapp based on Vue.js framework JS and grid system 
 
 ## Project setup
 ```
